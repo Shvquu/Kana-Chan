@@ -1,15 +1,15 @@
 {
     "startLogs": {
-        "id": "",
-        "token": ""
+        "id": "1125320489976463410",
+        "token": "7oLzFScJ7rZYjngJnf4Y2Ao7TRRcdyXsU24uHof195h8DmgpR6pc1z5DElNrSgwziNNs"
     },
     "shardLogs": {
-        "id": "",
-        "token": ""
+        "id": "1125320489976463410",
+        "token": "7oLzFScJ7rZYjngJnf4Y2Ao7TRRcdyXsU24uHof195h8DmgpR6pc1z5DElNrSgwziNNs"
     },
     "errorLogs": {
-        "id": "",
-        "token": ""
+        "id": "1125320288259817472",
+        "token": "DBrfMl0QbXkYhLYAMGOUFy5U1DMGY48wn2jfrTDvSqkKV4533V3UtOF0QO53HF0Cj3SI"
     },
     "dmLogs": {
         "id": "",
@@ -48,15 +48,15 @@
         "token": ""
     },
     "evalLogs": {
-        "id": "",
-        "token": ""
+        "id": "1125320636508684378",
+        "token": "BFPsRkOVvV3ZeX-Hh5Heq7iT-AS8UVplmrg0khz-D_8rxM959A4hEWSk9olndHLeDV5h"
     },
     "interactionLogs": {
         "id": "",
         "token": ""
     },
     "bugReportLogs": {
-        "id": "",
-        "token": ""
+        "id": "1125320782311084142",
+        "token": "S7-btj34Z5HdfJ0xm_Y34zEF7xxITDaPdPtqaU0lMIivzWaeqHFiTAseAwD4_TQOF0Ku"
     }
 }
