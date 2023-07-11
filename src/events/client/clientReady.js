@@ -21,7 +21,7 @@ module.exports = async (client) => {
         )
         .setColor(client.config.colors.normal)
     startLogs.send({
-        username: 'Bot Logs',
+        username: '𝓚𝓪𝓷𝓪💙',
         embeds: [embed],
     });
 
@@ -34,12 +34,20 @@ module.exports = async (client) => {
                 const totalGuilds = results[0].reduce((acc, guildCount) => acc + guildCount, 0);
                 let statuttext;
                 if (process.env.DISCORD_STATUS) {
-                    statuttext = process.env.DISCORD_STATUS.split(', ');
+                    //statuttext = process.env.DISCORD_STATUS.split(', ');
+                    statuttext = [
+                        `・💙┆B-Komachi`,
+                        `・❓┆/help`,
+                        `・💻┆${totalGuilds} servers`,
+                        `・📨┆discord.gg/3P6q3WUPrh`,
+                        `・🎉┆400+ commands`,
+                        `・🏷️┆Version ${require(`${process.cwd()}/package.json`).version}`
+                    ];
                 } else {
                     statuttext = [
                         `・❓┆/help`,
                         `・💻┆${totalGuilds} servers`,
-                        `・📨┆discord.gg/corwindev`,
+                        `・📨┆discord.gg/3P6q3WUPrh`,
                         `・🎉┆400+ commands`,
                         `・🏷️┆Version ${require(`${process.cwd()}/package.json`).version}`
                     ];

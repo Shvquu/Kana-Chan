@@ -22,7 +22,7 @@ module.exports = async (client, interaction, args) => {
         },
         {
             name: "🌐┆Website",
-            value: `[https://kana-chan.xyz](https://kana-chan.nl)`,
+            value: `[Website](${client.config.discord.websiteInvite})`,
             inline: true,
         }],
         type: 'editreply'

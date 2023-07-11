@@ -48,7 +48,7 @@ module.exports = {
                 .setDescription(`${desc}`)
                 .setColor(client.config.colors.normal)
             webhookClient.send({
-                username: 'Bot Reports',
+                username: '𝓚𝓪𝓷𝓪💙',
                 embeds: [embed],
             });
 
@@ -67,7 +67,7 @@ module.exports = {
                 .setDescription(`${desc}`)
                 .setColor(client.config.colors.normal)
             webhookClient.send({
-                username: 'Bot Reports',
+                username: '𝓚𝓪𝓷𝓪💙',
                 embeds: [embed],
             });
 
