@@ -34,7 +34,7 @@
 <!-- NOTICE -->
 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
-> You may not claim this as your own! The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and being updated by my(CorwinDev)
+> You may not claim this as your own! The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and updated by me(CorwinDev)
 
 > Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
 If you like this repository, feel free to leave a star ⭐ to motivate me!
@@ -56,6 +56,8 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Family
 - [x] Giveaways 
 - [x] Easy to use
+- [x] Customizable
+- [x] And much more
 - [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
@@ -72,9 +74,9 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
 - Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
 - OpenAI API Key `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
-- ClientID `for loading slash commands.`
-- Spotify client ID `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
-- Spotify client Secret `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+- ClientID `for loading slash commands.` [Discord Developers Portal](https://discord.com/developers/applications)
+- Spotify client ID `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+- Spotify client Secret `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
 
 ## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
 
@@ -103,7 +105,7 @@ node src/index.js
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
 
 ```bash
-npm run add-dev YOUR_ID
+npm run add-dev YOUR_Discord_ID
 ```
 # Donate
 
